@@ -10,5 +10,14 @@
     <itunes:image href="https://rabmeireliyahu.github.io/chicurel/portada.jpg"/>
     <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
-  </channel>
+      <item>
+      <title>El mensaje OCULTO de los ROLLOS de la TORÁ</title>
+      <description>El mensaje OCULTO de los ROLLOS de la TORÁ</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-chicurel/El%20mensaje%20OCULTO%20de%20los%20ROLLOS%20de%20la%20TOR%C3%81.mp3" length="8337333" type="audio/mpeg"/>
+      <guid isPermaLink="false">El mensaje OCULTO de los ROLLOS de la TORÁ.mp3</guid>
+      <pubDate>Fri, 02 Oct 2026 09:01:36 -0000</pubDate>
+      <itunes:duration>00:10:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+</channel>
 </rss>
