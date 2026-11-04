@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Rabino Moisés Chicurel</title>
+    <description>Judaísmo, Torá y filosofía para la vida. Clases del Rabino Moisés Chicurel, Rabino Principal de la Comunidad Judía de Madrid y antes de la Comunidad Sefaradí de México. Otzar HaTorah.</description>
+    <link>https://rabmeireliyahu.github.io/chicurel</link>
+    <language>es</language>
+    <itunes:author>Rabino Moisés Chicurel</itunes:author>
+    <itunes:owner><itunes:name>Rabino Moisés Chicurel</itunes:name><itunes:email>rabmeireliyahu@gmail.com</itunes:email></itunes:owner>
+    <itunes:image href="https://rabmeireliyahu.github.io/chicurel/portada.jpg"/>
+    <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+  </channel>
+</rss>
